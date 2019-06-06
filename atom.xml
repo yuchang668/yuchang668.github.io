@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[]]></title>
+  <link href="https://yuchang668.github.io/atom.xml" rel="self"/>
+  <link href="https://yuchang668.github.io/"/>
+  <updated>2019-06-06T23:01:59+08:00</updated>
+  <id>https://yuchang668.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[hello]]></title>
+    <link href="https://yuchang668.github.io/15598331259823.html"/>
+    <updated>2019-06-06T22:58:45+08:00</updated>
+    <id>https://yuchang668.github.io/15598331259823.html</id>
+    <content type="html"><![CDATA[
+<p>hello world!</p>
+
+]]></content>
+  </entry>
+  
+</feed>
